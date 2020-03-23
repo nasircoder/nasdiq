@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://visual220.github.io/nasdiq"
+  "homepage":"https://visual220.github.io/nasdiq",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
